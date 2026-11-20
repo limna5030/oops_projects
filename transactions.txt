@@ -1,0 +1,10 @@
+OUTPUTS
+
+Savings account for Sam
+deposit: $25, balance: $125
+withdrawal: $10, balance: $115
+
+Savings account for Alice
+deposit: $100, balance: $600
+withdrawal: $50, balance: $550
+
