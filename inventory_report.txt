@@ -1,0 +1,10 @@
+Inventory Report
+ID    Product                    Price    Quantity    Stock Value
+-----------------------------------------------------------------
+1     Laptop                $  1000.00          10$      10000.00
+2     Smartphone            $   500.00          20$      10000.00
+3     Tablet                $   300.00          15$       4500.00
+-----------------------------------------------------------------
+Products: 3
+Total units: 45
+Total inventory value: $24500.00
